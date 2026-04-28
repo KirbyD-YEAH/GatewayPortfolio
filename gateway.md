@@ -184,6 +184,37 @@ This advanced COBOL reporting system incorporates multi-file processing and in-m
 
 ---
 
+### 🔹 EMPLOYEE SYSTEM
+
+**Summary:**  
+A multi-program COBOL system that simulates real-world employee file maintenance using both sequential and indexed processing. The system supports adding, updating, and deleting employee records while maintaining audit trails for invalid transactions.
+
+**Technologies Used:**
+
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
+
+**Key Concepts:**
+
+* Multi-Program System Design (EMPIND01, EMPIND02, SEQ3000)
+* Sequential vs Indexed File Processing
+* Transaction-Based File Maintenance (Add / Change / Delete)
+* Random vs Sequential Access
+* Merge/Match Logic for Batch Updates
+* Error Handling with File Status Codes
+* Audit Trail Generation for Invalid Transactions
+* 88-Level Condition Names for Control Flow
+
+**Status:** ✅ Completed  
+**Type:** Course Project  
+
+🔗 **Repository:** https://github.com/KirbyD-YEAH/COBOL-EMPLOYEE-SYSTEM
+
+⬆️ [Back to TOC](#-table-of-contents)
+
+---
+
 ## 🧠 Overall Learning Progression
 
 This portfolio demonstrates a clear progression of enterprise programming skills:
