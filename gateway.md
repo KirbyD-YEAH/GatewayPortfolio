@@ -55,9 +55,8 @@ Utility billing system that calculates electricity costs and uses a tiered prici
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 * TN3270 Emulator
 
 **Key Concepts:**
@@ -83,10 +82,9 @@ The first of multiple reports, this is a COBOL reporting program that reads cust
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* VS Code
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 **Key Concepts:**
 
@@ -111,10 +109,9 @@ Building off of RPT2000, this is an enhanced reporting system introduces automat
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* VS Code
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 **Key Concepts:**
 
@@ -139,10 +136,9 @@ This reporting tool introduces multi-level grouping with branch and sales repres
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* VS Code
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 **Key Concepts:**
 
@@ -167,10 +163,9 @@ This advanced COBOL reporting system incorporates multi-file processing and in-m
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* VS Code
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 **Key Concepts:**
 
