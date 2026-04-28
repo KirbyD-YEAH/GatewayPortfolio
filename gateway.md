@@ -28,10 +28,9 @@ A financial calculation program that models compound interest growth across diff
 
 **Technologies Used:**
 
-* COBOL
-* JCL
-* VS Code
-* GitHub
+* ![COBOL](https://img.shields.io/badge/COBOL-Enterprise-blue)
+* ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* ![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=GitHub)
 
 **Key Concepts:**
 
