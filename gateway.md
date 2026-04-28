@@ -43,7 +43,7 @@ A financial calculation program that models compound interest growth across diff
 **Status:** ✅ Completed
 **Type:** Course Project
 
-🔗 **Repository:** https://github.com/Pirategirl9000/CALC2000
+🔗 **Repository:** https://github.com/KirbyD-YEAH/CALC2000
 
 ⬆️ [Back to TOC](#-table-of-contents)
 
