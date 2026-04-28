@@ -209,7 +209,7 @@ A multi-program COBOL system that simulates real-world employee file maintenance
 **Status:** ✅ Completed  
 **Type:** Course Project  
 
-🔗 **Repository:** https://github.com/KirbyD-YEAH/COBOL-EMPLOYEE-SYSTEM
+🔗 **Repository:** https://github.com/KirbyD-YEAH/COBOL-EmployeeSystem
 
 ⬆️ [Back to TOC](#-table-of-contents)
 
